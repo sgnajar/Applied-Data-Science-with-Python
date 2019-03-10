@@ -1,6 +1,4 @@
-# applied-data-science
-Coursera certification - applied data science using Python
-
+# Applied Data Science with Python Specialization
 This repository contains IPython notebooks of assignments and tutorials used in the Applied Data Science with Python Specialization 
 from University of Michigan offered by Coursera.
 
